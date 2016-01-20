@@ -1,10 +1,5 @@
-
 # エンディアン
 
-From the terminal, pop in:
+One little, two little...
 
-  ```yo reveal:slide "Slide Title"```
-
-Available options:
-
- ```--markdown --attributes --notes```
+政倉 智
